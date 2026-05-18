@@ -1,6 +1,6 @@
 # RacePi Dashboard
 
-Interface graphique PC pour le projet intégrateur **RacePi** — un système de chronométrage de course sur piste basé sur Raspberry Pi et capteurs infrarouges.
+Interface graphique PC pour le projet intégrateur **RacePi** - un système de chronométrage de course sur piste basé sur Raspberry Pi et capteurs infrarouges.
 
 ## Description
 
